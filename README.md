@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahadahmmad
-- 👀 I’m interested in ...degital marketing
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...termux
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
